@@ -9,21 +9,21 @@
 </metadata>
 <wpt lat="-7.266870490549997" lon="109.99262397452539">
     <ele>1732.5</ele>
-    <name>WS 1</name>
+    <name>WS 1 | Tambi</name>
     <cmt>Sibajak</cmt>
     <desc>KM 6</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.231070741996057" lon="109.96088147163393">
     <ele>1652.7</ele>
-    <name>WS 2</name>
+    <name>WS 2 | Wates</name>
     <cmt>Wates</cmt>
     <desc>KM 13</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.244865400238134" lon="109.9752624232183">
     <ele>2063.1</ele>
-    <name>CP</name>
+    <name>CP | Puncak Setrelep</name>
     <cmt>P. Setrelep</cmt>
     <sym> </sym>
 </wpt>
