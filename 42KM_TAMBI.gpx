@@ -9,48 +9,48 @@
 </metadata>
 <wpt lat="-7.266915643527298" lon="109.99267328633813">
     <ele>1732.1</ele>
-    <name>WS 1</name>
+    <name>WS 1 | Sibajak</name>
     <cmt>Sibajak</cmt>
     <desc>KM 6</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.231070741996057" lon="109.96088147163393">
     <ele>1652.7</ele>
-    <name>WS 2</name>
+    <name>WS 2 | Wates</name>
     <cmt>Wates</cmt>
     <desc>KM 13</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.23110790993734" lon="109.90162850712188">
     <ele>2067.3</ele>
-    <name>WS 3</name>
+    <name>WS 3 | Sikunang</name>
     <cmt>Sikunang</cmt>
     <desc>KM 23</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.272747864938376" lon="109.8893612453943">
     <ele>1292.8</ele>
-    <name>WS 4</name>
+    <name>WS 4 | Silandak</name>
     <cmt>Silandak</cmt>
     <desc>KM 30</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.263840903663903" lon="109.93113040924072">
     <ele>1382.1</ele>
-    <name>WS 5</name>
+    <name>WS 5 | Telaga Menjer</name>
     <cmt>Menjer</cmt>
     <desc>KM 38</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.244760038121594" lon="109.97527759608373">
     <ele>2064.1</ele>
-    <name>CP 1</name>
+    <name>CP 1 | Puncak Setrelep</name>
     <cmt>P. Setrelep</cmt>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.238957510463562" lon="109.88896608352663">
     <ele>2299.5</ele>
-    <name>CP 2</name>
+    <name>CP 2 | Puncak Bismo</name>
     <cmt>P. Bismo</cmt>
     <sym> </sym>
 </wpt>
