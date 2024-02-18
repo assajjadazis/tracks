@@ -9,48 +9,48 @@
 </metadata>
 <wpt lat="-7.266916642424057" lon="109.99268174171449">
     <ele>1732.0</ele>
-    <name>WS 1</name>
+    <name>WS 1 | Sibajak</name>
     <cmt>Sibajak</cmt>
     <desc>KM 6</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.210561206072312" lon="110.00459157216002">
     <ele>1034.4</ele>
-    <name>WS 2 + CP 1</name>
+    <name>WS 2 + CP 1 | Tawangsari</name>
     <cmt>Tawangsari</cmt>
     <desc>KM 16</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.200554782943685" lon="109.99131917953493">
     <ele>1303.9</ele>
-    <name>WS 3</name>
+    <name>WS 3 | Campurejo</name>
     <cmt>Campurejo</cmt>
     <desc>KM 23.5</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.231102672510567" lon="109.96083855628969">
     <ele>1651.1</ele>
-    <name>WS 4</name>
+    <name>WS 4 | Wates</name>
     <cmt>Wates</cmt>
     <desc>KM 32.5</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.209305831438936" lon="109.92945652723397">
     <ele>2110.4</ele>
-    <name>WS 5</name>
+    <name>WS 5 | Patak Banteng</name>
     <cmt>Patak Banteng</cmt>
     <desc>KM 40</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.2119705683121715" lon="109.92057859897615">
     <ele>2039.2</ele>
-    <name>WS 6</name>
+    <name>WS 6 | Jogjogan</name>
     <cmt>Jogjogan</cmt>
     <desc>KM 48</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.2311906969648" lon="109.90168919858374">
-    <ele>2068.7</ele>
+    <ele>2068.7 | Sikunang</ele>
     <name>WS 7</name>
     <cmt>Sikunang</cmt>
     <desc>KM 53</desc>
@@ -58,28 +58,28 @@
 </wpt>
 <wpt lat="-7.272748781284969" lon="109.88929331302644">
     <ele>1292.9</ele>
-    <name>WS 8</name>
+    <name>WS 8 | Silandak</name>
     <cmt>Silandak</cmt>
     <desc>KM 60</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.263807569825692" lon="109.93121583506746">
     <ele>1383.7</ele>
-    <name>WS 9</name>
+    <name>WS 9 | Menjer</name>
     <cmt>Menjer</cmt>
     <desc>KM 68</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.187504777947125" lon="109.9239206314087">
     <ele>2503.5</ele>
-    <name>CP 2</name>
+    <name>CP 2 | Puncak Prau</name>
     <cmt>P. Prau </cmt>
     <desc>Via Kalilembu</desc>
     <sym> </sym>
 </wpt>
 <wpt lat="-7.238739304841493" lon="109.8891260659796">
     <ele>2305.2</ele>
-    <name>CP 3</name>
+    <name>CP 3 | Puncak Bismo</name>
     <cmt>P. Bismo</cmt>
     <sym> </sym>
 </wpt>
